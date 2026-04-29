@@ -3,5 +3,7 @@
   "compilerOptions": {
     "allowJs": true,
     "declaration": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
   }
 }
